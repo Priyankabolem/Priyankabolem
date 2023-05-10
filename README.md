@@ -1,15 +1,10 @@
 ### Hi there 👋
 
+This is Priyanka Bolem
 
+- 🔭 I’m currently studying in Northwest Missouri State University
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Northwest Missouri State University
-- 🌱 I’m currently learning Web apps
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: https://www.linkedin.com/in/priya-b-66763041/
-- 😄 Pronouns: ...
-- ⚡ Fun fact: A shrimp's heart is in its head.
+
+
 
